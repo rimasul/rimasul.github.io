@@ -66,6 +66,24 @@ fr-BE:
 fr-CH:
   <<: *DEFAULT_FR
 
+# Arabic
+# -------
+ar: &DEFAULT_AR
+  comments_label             : "اترك تعليقاً"
+  comments_title             : "التعليقات"
+  comment_form_info          : "لن يتم تضمين عنوان بريدك الالكترني"
+  comment_form_comment_label : "تعليق"
+  comment_form_md_info       : "ماركداون مدعومة"
+  comment_form_name_label    : "الاسم"
+  comment_form_email_label   : "البريد الإلكتروني"
+  comment_form_website_label : "الموقع الالكتروني )اختياري("
+  comment_btn_submit         : "ارسال التعليق"
+  comment_btn_submitted      : "تم"
+  comment_success_msg        : "شكراً للتعليق"
+  comment_error_msg          : "عذراً حصل خطأ٫ يرجى المحاولة في وقت لاحق"
+ar-AR:
+  <<: *DEFAULT_AR
+
 # Turkish
 # -------
 tr: &DEFAULT_TR

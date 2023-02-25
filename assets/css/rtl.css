@@ -1,0 +1,25 @@
+/* --- RTL --- */
+.lefti {
+  margin-left: 1rem !important;
+}
+
+.flex-end {
+  justify-content: end;
+}
+
+.rtld {
+  direction: rtl;
+}
+
+.ltrd {
+  direction: ltr;
+}
+
+.rtl {
+  text-align: right;
+}
+
+.avatar {
+  float: left;
+  height: 350px;
+}

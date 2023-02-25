@@ -1,78 +1,106 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: عنوان رئيسي
+subtitle: عنوان فرعي
+gh-repo: rimasul/rimasul.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [تجربة]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+علمني حبك ..أن أحزن
+و أنا محتاج منذ عصور
+لامرأة تجعلني أحزن
+لامرأة أبكي بين ذراعيها
+مثل العصفور..
+لامرأة.. تجمع أجزائي
+كشظايا البللور المكسور
+***
+علمني حبك.. سيدتي
+أسوء عادات
+علمني أفتح فنجاني
+في الليلة ألاف المرات..
+و أجرب طب العطارين..
+و أطرق باب العرافات..
+علمني ..أخرج من بيتي..
+لأمشط أرصفة الطرقات
+و أطارد وجهك..
+في الأمطار ، و في أضواء السيارات..
+و أطارد طيفك..
+حتى .. حتى ..
+في أوراق الإعلانات ..
+علمني حبك..
+كيف أهيم على وجهي..ساعات
+بحثا عن شعر غجري
+تحسده كل الغجريات
+بحثا عن وجه ٍ..عن صوتٍ..
+هو كل الأوجه و الأصوات
+***
+أدخلني حبك.. سيدتي
+مدن الأحزان..
+و أنا من قبلك لم أدخل
+مدن الأحزان..
+لم أعرف أبداً..
+أن الدمع هو الإنسان
+أن الإنسان بلا حزنٍ
+ذكرى إنسان..
+***
+علمني حبك..
+أن أتصرف كالصبيان
+أن أرسم وجهك ..
+بالطبشور على الحيطان..
+و على أشرعة الصيادين
+على الأجراس..
+على الصلبان
+علمني حبك..
+كيف الحب يغير خارطة الأزمان..
+علمني أني حين أحب..
+تكف الأرض عن الدوران
+علمني حبك أشياءً..
+ما كانت أبداً في الحسبان
+فقرأت أقاصيص الأطفال..
+دخلت قصور ملوك الجان
+و حلمت بأن تتزوجني
+بنت السلطان..
+تلك العيناها .. أصفى من ماء الخلجان
+تلك الشفتاها.. أشهى من زهر الرمان
+و حلمت بأني أخطفها
+مثل الفرسان..
+و حلمت بأني أهديها
+أطواق اللؤلؤ و المرجان..
+علمني حبك يا سيدتي, ما الهذيان
+علمني كيف يمر العمر..
+و لا تأتي بنت السلطان..
+***
+علمني حبك..
+كيف أحبك في كل الأشياء
+في الشجر العاري..
+في الأوراق اليابسة الصفراء
+في الجو الماطر.. في الأنواء..
+في أصغر مقهى..
+نشرب فيه، مساءً، قهوتنا السوداء..
+علمني حبك أن آوي..
+لفنادق ليس لها أسماء
+و كنائس ليس لها أسماء
+و مقاهٍ ليس لها أسماء
+علمني حبك..
+كيف الليل يضخم أحزان الغرباء..
+علمني..كيف أرى بيروت
+إمرأة..طاغية الإغراء..
+إمراةً..تلبس كل كل مساء
+أجمل ما تملك من أزياء
+و ترش العطر.. على نهديها
+للبحارة..و الأمراء..
+علمني حبك ..
+أن أبكي من غير بكاء
+علمني كيف ينام الحزن
+كغلام مقطوع القدمين..
+في طرق (الروشة) و (الحمراء)..
+***
+علمني حبك أن أحزن..
+و أنا محتاج منذ عصور
+لامرأة.. تجعلني أحزن
+لامرأة.. أبكي بين ذراعيها..
+مثل العصفور..
+لامرأة تجمع أجزائي..
+كشظايا البللور المكسور..
